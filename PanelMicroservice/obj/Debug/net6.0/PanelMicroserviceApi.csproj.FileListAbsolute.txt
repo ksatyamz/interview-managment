@@ -1,0 +1,270 @@
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\appsettings.json
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.exe
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.deps.json
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.runtimeconfig.json
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.pdb
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Humanizer.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.csproj.AssemblyReference.cache
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.AssemblyInfoInputs.cache
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.AssemblyInfo.cs
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.csproj.CoreCompileInputs.cache
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\scopedcss\bundle\PanelMicroserviceApi.styles.css
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.csproj.CopyComplete
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\refint\PanelMicroserviceApi.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.pdb
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.genruntimeconfig.cache
+C:\Users\cs69502\source\repos\PanelMicroservice\obj\Debug\net6.0\ref\PanelMicroserviceApi.dll
+C:\Users\cs69502\source\repos\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\appsettings.json
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.exe
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.deps.json
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.runtimeconfig.json
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.pdb
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.csproj.AssemblyReference.cache
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.AssemblyInfoInputs.cache
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.AssemblyInfo.cs
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.csproj.CoreCompileInputs.cache
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\scopedcss\bundle\PanelMicroserviceApi.styles.css
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.csproj.CopyComplete
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\refint\PanelMicroserviceApi.dll
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.pdb
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.genruntimeconfig.cache
+C:\Users\aj69462\Downloads\PanelMicroservice (1)\PanelMicroservice\obj\Debug\net6.0\ref\PanelMicroserviceApi.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\appsettings.json
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.exe
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.deps.json
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.runtimeconfig.json
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.pdb
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.csproj.AssemblyReference.cache
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.AssemblyInfoInputs.cache
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.AssemblyInfo.cs
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.csproj.CoreCompileInputs.cache
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\scopedcss\bundle\PanelMicroserviceApi.styles.css
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.csproj.CopyComplete
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\refint\PanelMicroserviceApi.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.pdb
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.genruntimeconfig.cache
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\ref\PanelMicroserviceApi.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\JwtAuyhenticationManager.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\JwtAuyhenticationManager.pdb
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\appsettings.json
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.exe
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.deps.json
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.runtimeconfig.json
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\PanelMicroserviceApi.pdb
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\JwtAuyhenticationManager.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\bin\Debug\net6.0\JwtAuyhenticationManager.pdb
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.csproj.AssemblyReference.cache
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.AssemblyInfoInputs.cache
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.AssemblyInfo.cs
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.csproj.CoreCompileInputs.cache
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\scopedcss\bundle\PanelMicroserviceApi.styles.css
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.csproj.CopyComplete
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\refint\PanelMicroserviceApi.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.pdb
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\PanelMicroserviceApi.genruntimeconfig.cache
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\PanelMicroservice\obj\Debug\net6.0\ref\PanelMicroserviceApi.dll

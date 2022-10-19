@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "II+uhNWHXExEWTmAB8n43wf3kCop4IVo6uHQSAyFc+E=",
+  "Source": "CandidateMicroServiceAPI",
+  "BasePath": "_content/CandidateMicroServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,36 @@
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.deps.json
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.dll
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.pdb
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.csproj.AssemblyReference.cache
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.AssemblyInfoInputs.cache
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.AssemblyInfo.cs
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.csproj.CoreCompileInputs.cache
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.dll
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\refint\JwtAuyhenticationManager.dll
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.pdb
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\ref\JwtAuyhenticationManager.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.deps.json
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.pdb
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.csproj.AssemblyReference.cache
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.AssemblyInfoInputs.cache
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.AssemblyInfo.cs
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.csproj.CoreCompileInputs.cache
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\refint\JwtAuyhenticationManager.dll
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.pdb
+C:\Users\aj69462\source\repos\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\ref\JwtAuyhenticationManager.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.deps.json
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.pdb
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.csproj.AssemblyReference.cache
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.AssemblyInfoInputs.cache
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.AssemblyInfo.cs
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.csproj.CoreCompileInputs.cache
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\refint\JwtAuyhenticationManager.dll
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.pdb
+C:\Users\aj69462\Desktop\InterviewManagement\Server\InterviewManagementMicroservice\JwtAuyhenticationManager\obj\Debug\net6.0\ref\JwtAuyhenticationManager.dll

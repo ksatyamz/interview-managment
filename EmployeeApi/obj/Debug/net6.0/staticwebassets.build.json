@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V66LUYVo/ODBINrOFraH+j+5pPPgvOUQTomObwdFVMA=",
+  "Source": "EmployeeMicroserviceAPI",
+  "BasePath": "_content/EmployeeMicroserviceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

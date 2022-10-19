@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "32IQV3OTgQEtbFGRhaHVkXzUDAUqVqyXjSjV8CzJhx4=",
+  "Source": "PanelMicroserviceApi",
+  "BasePath": "_content/PanelMicroserviceApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

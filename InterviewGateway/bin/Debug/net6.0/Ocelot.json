@@ -1,0 +1,357 @@
+{
+  "Routes": [
+
+    //CandidateApi
+    {
+      "UpstreamPathTemplate": "/api/Candidate",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8001
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Candidate"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Candidate/id?id={id}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8001
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Candidate/id?id={id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Candidate/{id}",
+      "UpstreamHttpMethod": [ "DELETE" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8001
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Candidate/{id}"
+    },
+    //EmployeeApi
+    {
+      "UpstreamPathTemplate": "/api/Employee",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8002
+
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Employee"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Employee/Register",
+      "UpstreamHttpMethod": [ "POST" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8002
+
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Employee/Register"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Employee/login",
+      "UpstreamHttpMethod": [ "POST" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8002
+
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Employee/login"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Employee/EmpId",
+      "UpstreamHttpMethod": [ "GET", "PUT", "DELETE" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8002
+
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Employee/EmpId"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Employee/Name",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8002
+
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Employee/Name"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Employee/Role?role={role}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8002
+
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Employee/Role?role={role}"
+    },
+
+
+    //InterviewApi
+    {
+      "UpstreamPathTemplate": "/api/Interview",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "DownstreamPathTemplate": "/api/Interview",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8003
+        }
+      ]
+
+    },
+    {
+      "UpstreamPathTemplate": "/api/Interview/{InterviewId}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/Interview/{InterviewId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8003
+        }
+      ]
+
+    },
+    {
+      "DownstreamPathTemplate": "/api/Interview/{CandidateId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8003
+        }
+      ],
+      "UpstreamPathTemplate": "/api/Interview/{CandidateId}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Interview/{panelId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8003
+        }
+      ],
+      "UpstreamPathTemplate": "/api/Interview/{panelId}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Interview/CadId?cadId={CadId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8003
+        }
+      ],
+      "UpstreamPathTemplate": "/api/Interview/CadId?cadId={CadId}",
+      "UpstreamHttpMethod": [ "DELETE" ]
+
+    },
+    //PanelApi
+    {
+      "UpstreamPathTemplate": "/api/Panel",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "8004"
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Panel"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/Panel/PanelId={id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "8004"
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Panel/PanelId={id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Panel/EmpId={id}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "8004"
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Panel/EmpId={id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Panel/id?PanelId={PanelId}&EmpId={EmpId}",
+      "UpstreamHttpMethod": [ "DELETE" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "8004"
+        }
+      ],
+
+      "DownstreamPathTemplate": "/api/Panel/id?PanelId={PanelId}&EmpId={EmpId}"
+    },
+
+
+
+    //Rating
+    {
+      "UpstreamPathTemplate": "/api/Rating",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8005
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Rating"
+    },
+    {
+      // "UpstreamPathTemplate": "/api/Rating/{id}",
+      "UpstreamPathTemplate": "/api/Rating/id?id={id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE", "PUT" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8005
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Rating/id?id={id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Rating/status?id={id}",
+      "UpstreamHttpMethod": [ "PUT" ],
+
+
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8005
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Rating/status?id={id}"
+    }
+    
+    //RoleApi
+    //{
+    //  "UpstreamPathTemplate": "/api/Role",
+    //  "UpstreamHttpMethod": [ "POST" ],
+
+    //  "DownstreamScheme": "http",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 8006
+    //    }
+    //  ],
+    //  "DownstreamPathTemplate": "/api/Role"
+    //},
+    //{
+    //  "UpstreamPathTemplate": "/api/Role/{id}",
+    //  "UpstreamHttpMethod": [ "GET" ],
+
+    //  "DownstreamScheme": "http",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 8006
+    //    }
+    //  ],
+    //  "DownstreamPathTemplate": "/api/Role/RoleId?id={id}"
+    //},
+    ////SkillApi
+    //{
+    //  "UpstreamPathTemplate": "/api/Skill/{CandidateId}",
+    //  "UpstreamHttpMethods": [ "GET" ],
+
+    //  "DownstreamScheme": "http",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 8007
+    //    }
+    //  ],
+    //  "DownstreamPathTemplate": "/api/Skill/CandidateId?CandidateId={CandidateId}"
+    //},
+
+
+    //{
+    //  "UpstreamPathTemplate": "/api/Skill",
+    //  "UpstreamHttpMethods": [ "POST" ],
+
+    //  "DownstreamScheme": "http",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 8007
+    //    }
+    //  ],
+    //  "DownstreamPathTemplate": "/api/Skill"
+    //}
+  ],
+  "GlobalConfiguration": {
+
+  }
+}

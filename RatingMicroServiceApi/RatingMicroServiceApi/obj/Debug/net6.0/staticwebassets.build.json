@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CqgWnm8Nv7rfvTsRTs58LimtWEggENLfpVFbKrURQew=",
+  "Source": "RatingMicroServiceApi",
+  "BasePath": "_content/RatingMicroServiceApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
